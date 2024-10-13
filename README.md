@@ -6,6 +6,7 @@ Multilanguage Support: Extracts data from documents in over 50 languages.
 Advanced NLP and ML: Utilizes cutting-edge natural language processing and machine learning algorithms.
 Efficiency and Accuracy: Ensures high accuracy and speed in data extraction and processing.
 Versatile Document Formats: Supports diverse document formats.
+
 Project Flow
 User Interaction: The user interacts with the UI to enter the input.
 Data Transmission: User input is collected from the UI and transmitted to the backend using the Google API key.
